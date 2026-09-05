@@ -1,0 +1,21 @@
+{
+  "name": "nord-carbon",
+  "displayName": "Nord Carbon",
+  "description": "Nord, but carbon.",
+  "version": "0.1.2",
+  "engines": {
+    "vscode": "^1.136.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nord Carbon Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nord Carbon Dark-color-theme.json"
+      }
+    ]
+  }
+}
