@@ -2,13 +2,19 @@
   "name": "nord-carbon",
   "displayName": "Nord Carbon",
   "description": "Nord, but carbon.",
-  "version": "0.1.2",
+  "version": "1.0",
   "engines": {
     "vscode": "^1.136.0"
   },
+  "icon": "./images/90c.png",
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+	"url": "https://github.com/nannerpusser/nord-carbon.git"
+},
+
   "contributes": {
     "themes": [
       {
