@@ -2,7 +2,8 @@
   "name": "nord-carbon",
   "displayName": "Nord Carbon",
   "description": "Nord, but carbon.",
-  "version": "1.0",
+  "version": "1.0.1",
+  "publisher": "nanners",
   "engines": {
     "vscode": "^1.136.0"
   },
